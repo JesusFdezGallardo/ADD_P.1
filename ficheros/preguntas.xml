@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<juego>
+  <pregunta>
+    <texto>¿Cual es la capital de Francia?</texto>
+    <respuesta1>Paris</respuesta1>
+    <respuesta2>Lyon</respuesta2>
+    <respuesta3>Marsella</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Cual es la capital de España?</texto>
+    <respuesta1>Madrid</respuesta1>
+    <respuesta2>Barcelona</respuesta2>
+    <respuesta3>Zaragoza</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Cual es la raiz cuadrada de 9?</texto>
+    <respuesta1>3</respuesta1>
+    <respuesta2>6</respuesta2>
+    <respuesta3>2</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>Cuantos dedos hay en una mano</texto>
+    <respuesta1>1</respuesta1>
+    <respuesta2>2</respuesta2>
+    <respuesta3>5</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Cual no es un color primario?</texto>
+    <respuesta1>Rojo</respuesta1>
+    <respuesta2>Verde</respuesta2>
+    <respuesta3>Blanco</respuesta3>
+    <correcta>3</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Hola lleva h?</texto>
+    <respuesta1>no</respuesta1>
+    <respuesta2>si</respuesta2>
+    <respuesta3>Tiene 2</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Cuanto suma 2 + 2?</texto>
+    <respuesta1>3</respuesta1>
+    <respuesta2>4</respuesta2>
+    <respuesta3>6</respuesta3>
+    <correcta>2</correcta>
+  </pregunta>
+  <pregunta>
+    <texto>¿Capital de Argentina?</texto>
+    <respuesta1>Buenos Aires</respuesta1>
+    <respuesta2>Cordoba</respuesta2>
+    <respuesta3>Badajoz</respuesta3>
+    <correcta>1</correcta>
+  </pregunta>
+
+</juego>
+

@@ -1,0 +1,56 @@
+19:16:46,246  INFO MiLog:35 - INFO
+19:16:46,248  WARN MiLog:36 - WARN
+19:16:46,248 ERROR MiLog:37 - ERROR
+19:16:46,249 FATAL MiLog:38 - FATAL
+19:16:56,965  INFO Main:101 - Idioma elegido ->en
+19:16:56,965  INFO Main:101 - Idioma elegido ->en
+19:16:58,447  INFO Main:134 - Metodo persistencia ->txt
+19:16:58,447  INFO Main:134 - Metodo persistencia ->txt
+19:40:43,247  INFO Main:102 - Idioma elegido ->es
+19:40:43,247  INFO Main:102 - Idioma elegido ->es
+19:46:56,742  INFO Main:106 - Idioma elegido ->en
+19:46:56,742  INFO Main:106 - Idioma elegido ->en
+19:46:58,328  INFO Main:139 - Metodo persistencia ->txt
+19:46:58,328  INFO Main:139 - Metodo persistencia ->txt
+19:47:08,988  INFO Main:102 - Idioma elegido ->es
+19:47:08,988  INFO Main:102 - Idioma elegido ->es
+19:47:12,954  INFO Main:139 - Metodo persistencia ->txt
+19:47:12,954  INFO Main:139 - Metodo persistencia ->txt
+19:49:17,744  INFO Main:106 - Idioma elegido ->en
+19:49:17,744  INFO Main:106 - Idioma elegido ->en
+19:49:19,343  INFO Main:144 - Metodo persistencia ->txt
+19:49:19,343  INFO Main:144 - Metodo persistencia ->txt
+19:49:22,560  WARN Main:192 - Error en la elección del menú
+19:49:22,560  WARN Main:192 - Error en la elección del menú
+19:54:07,929  INFO Main:106 - Idioma elegido ->en
+19:54:07,929  INFO Main:106 - Idioma elegido ->en
+19:54:09,255  INFO Main:144 - Metodo persistencia ->txt
+19:54:09,255  INFO Main:144 - Metodo persistencia ->txt
+20:03:16,043  INFO Main:105 - Idioma elegido ->en
+20:03:16,043  INFO Main:105 - Idioma elegido ->en
+20:03:17,753  INFO Main:143 - Metodo persistencia ->txt
+20:03:17,753  INFO Main:143 - Metodo persistencia ->txt
+20:03:47,145  INFO Main:163 - Opción de usuario -> Juego
+20:03:47,145  INFO Main:163 - Opción de usuario -> Juego
+20:17:36,989  INFO Main:105 - Idioma elegido ->en
+20:17:36,989  INFO Main:105 - Idioma elegido ->en
+20:17:37,466  INFO Main:143 - Metodo persistencia ->txt
+20:17:37,466  INFO Main:143 - Metodo persistencia ->txt
+15:51:01,263  INFO Main:105 - Idioma elegido ->en
+15:51:01,263  INFO Main:105 - Idioma elegido ->en
+15:51:03,681  INFO Main:135 - Metodo persistencia ->bd
+15:51:03,681  INFO Main:135 - Metodo persistencia ->bd
+15:51:13,503  INFO Main:163 - Opción de usuario -> Juego
+15:51:13,503  INFO Main:163 - Opción de usuario -> Juego
+15:57:36,159  INFO Main:105 - Idioma elegido ->en
+15:57:36,159  INFO Main:105 - Idioma elegido ->en
+15:57:37,831  INFO Main:135 - Metodo persistencia ->bd
+15:57:37,831  INFO Main:135 - Metodo persistencia ->bd
+15:58:02,563  INFO Main:163 - Opción de usuario -> Juego
+15:58:02,563  INFO Main:163 - Opción de usuario -> Juego
+15:58:13,443  INFO Main:178 - Opción de usuario -> Ver Records
+15:58:13,443  INFO Main:178 - Opción de usuario -> Ver Records
+16:24:05,815  INFO Main:105 - Idioma elegido ->en
+16:24:05,815  INFO Main:105 - Idioma elegido ->en
+16:24:08,090  INFO Main:135 - Metodo persistencia ->bd
+16:24:08,090  INFO Main:135 - Metodo persistencia ->bd
